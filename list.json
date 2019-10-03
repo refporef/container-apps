@@ -569,5 +569,16 @@
         "version": "1.1.1",
         "location": "https://hub.docker.com/r/arm64v8/irssi",
         "type": "docker"
-    }
+    },
+     {
+        "description": "docker-compose-letsencrypt-nginx-proxy-companion",
+        "repository": "Github",
+        "arch": "arm64",
+        "icon": "",
+        "displayName": "docker-compose-letsencrypt-nginx-proxy-companion",
+        "name": "evertramos/docker-compose-letsencrypt-nginx-proxy-companion",
+        "version": "0.3",
+        "location": "https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion.git",
+        "type": "docker"
+}
 ]
